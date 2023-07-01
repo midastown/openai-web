@@ -1,0 +1,5 @@
+*.min
+*.yml
+*.yaml
+.DS_Store
+
