@@ -1,0 +1,6 @@
+__pycache__/
+*.min
+*.yml
+*.yaml
+.DS_Store
+
